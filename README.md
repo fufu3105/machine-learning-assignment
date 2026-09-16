@@ -1,6 +1,6 @@
 # Machine Learning Assignment
 
-## Cấu trúc thư mục
+## Repository structure
 
 ```text
 Assignment/
