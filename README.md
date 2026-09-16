@@ -1,11 +1,35 @@
 # Machine Learning Assignment
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/fufu3105/machine-learning-assignment/blob/main/assignment.ipynb)
+[![Python](https://img.shields.io/badge/python-3.14.2-blue.svg)](https://www.python.org/) [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/fufu3105/machine-learning-assignment/blob/main/assignment.ipynb)
 
-Source code: [fufu3105/machine-learning-assignment](https://github.com/fufu3105/machine-learning-assignment).
+<div align="center">
+    <h2>Project: Machine Learning Major Assignment - Group 8</h2>
+    <p>Text data processing pipeline</p>
+</div>
 
 
+##  Course Information
+
+* **Course:** Machine Learning
+* **Course Code:** CO3117
+* **Semester:** 261, Academic Year 2026–2027
+* **Instructor:** Dr. Trương Vĩnh Lân
+
+---
+## Team members
+
+| MSSV    | Name           | Email                                                                 |
+| ------- | ------------------- | --------------------------------------------------------------------- |
+| xxxxxxx | ABC      | [a](mailto:a)       |
+| xxxxxxx | ABC      | [a](mailto:a)       |
+| xxxxxxx | ABC      | [a](mailto:a)       |
+| xxxxxxx | ABC      | [a](mailto:a)       |
+
+## Project Overview
+## Project Target
 ## Repository structure
+
+**GitHub Repository:** [fufu3105/machine-learning-assignment](https://github.com/fufu3105/machine-learning-assignment).
 
 ```text
 Assignment/

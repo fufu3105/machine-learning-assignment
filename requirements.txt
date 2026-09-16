@@ -1,1 +1,12 @@
-
+numpy
+pandas
+matplotlib
+seaborn
+wordcloud
+nltk
+scikit-learn
+datasets
+transformers
+gensim>=4.4.0
+torch
+ipykernel
