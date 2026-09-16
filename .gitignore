@@ -7,6 +7,9 @@ venv/
 # Jupyter
 .ipynb_checkpoints/
 
+# Downloaded dataset cache
+/data/raw/ag_news/
+
 # Environment variables
 .env
 

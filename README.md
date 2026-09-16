@@ -1,5 +1,10 @@
 # Machine Learning Assignment
 
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/fufu3105/machine-learning-assignment/blob/main/assignment.ipynb)
+
+Source code: [fufu3105/machine-learning-assignment](https://github.com/fufu3105/machine-learning-assignment).
+
+
 ## Repository structure
 
 ```text
