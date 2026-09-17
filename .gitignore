@@ -10,6 +10,9 @@ venv/
 # Downloaded dataset cache
 /data/raw/ag_news/
 
+# Optional NLTK corpus cache
+/data/nltk_data/
+
 # Environment variables
 .env
 
