@@ -1,0 +1,3 @@
+Representation,Model,Pooling,Dimension,Train shape,Validation shape,Test shape
+GloVe mean pooling,glove-wiki-gigaword-100,Mean of recognized word vectors,100,"(107973, 100)","(11987, 100)","(7600, 100)"
+DistilBERT masked mean,distilbert-base-uncased,Attention-mask mean of last hidden states,768,"(107973, 768)","(11987, 768)","(7600, 768)"

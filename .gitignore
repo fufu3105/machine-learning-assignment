@@ -6,15 +6,20 @@ venv/
 
 # Jupyter
 .ipynb_checkpoints/
+/backups/
 
 # Downloaded dataset cache
 /data/raw/ag_news/
+
+# Downloaded pretrained models
+/data/pretrained/
 
 # Optional NLTK corpus cache
 /data/nltk_data/
 
 # Generated feature matrices
 /features/traditional/
+/features/pretrained/
 
 # Environment variables
 .env

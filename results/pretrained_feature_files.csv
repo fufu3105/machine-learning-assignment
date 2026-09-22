@@ -1,0 +1,7 @@
+Representation,Split,Shape,File,Size (MB)
+GloVe mean pooling,Train,"(107973, 100)",features/pretrained/glove_wiki_gigaword_100_train.npy,41.18855285644531
+GloVe mean pooling,Validation,"(11987, 100)",features/pretrained/glove_wiki_gigaword_100_validation.npy,4.5727996826171875
+GloVe mean pooling,Test,"(7600, 100)",features/pretrained/glove_wiki_gigaword_100_test.npy,2.8992919921875
+DistilBERT masked mean,Train,"(107973, 768)",features/pretrained/distilbert_base_uncased_mean_train.npy,316.3272705078125
+DistilBERT masked mean,Validation,"(11987, 768)",features/pretrained/distilbert_base_uncased_mean_validation.npy,35.1182861328125
+DistilBERT masked mean,Test,"(7600, 768)",features/pretrained/distilbert_base_uncased_mean_test.npy,22.2657470703125
