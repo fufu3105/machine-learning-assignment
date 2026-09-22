@@ -13,6 +13,9 @@ venv/
 # Optional NLTK corpus cache
 /data/nltk_data/
 
+# Generated feature matrices
+/features/traditional/
+
 # Environment variables
 .env
 

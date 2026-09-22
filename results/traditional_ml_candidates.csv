@@ -1,0 +1,4 @@
+Rank,Experiment,Model,Feature set,Accuracy,Macro F1,Weighted F1,Training time (s),Selection score
+1,linear_svm__tfidf_unigram_bigram,Linear SVM,tfidf_unigram_bigram,0.9230833402853091,0.9229905449163166,0.9229883398482339,4.333819899999071,0.9230207416832865
+2,logistic_regression__tfidf_unigram_bigram,Logistic Regression,tfidf_unigram_bigram,0.920580629014766,0.9204668823948758,0.9204642259880798,6.907856500009075,0.9205039124659072
+3,linear_svm__tfidf_unigram,Linear SVM,tfidf_unigram,0.9194126970885126,0.9192997247107384,0.9192955928653521,3.146736000024248,0.919336004888201

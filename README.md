@@ -20,10 +20,10 @@
 
 | MSSV    | Name           | Email                                                                 |
 | ------- | ------------------- | --------------------------------------------------------------------- |
-| xxxxxxx | ABC      | [a](mailto:a)       |
-| xxxxxxx | ABC      | [a](mailto:a)       |
-| xxxxxxx | ABC      | [a](mailto:a)       |
-| xxxxxxx | ABC      | [a](mailto:a)       |
+| Nguyễn Tấn Khoa | 2352576      | [a](mailto:a)       |
+| Trương Hoàng Phú | 2352924      | [a](mailto:a)       |
+| Nguyễn Đức Thịnh | 2353140      | [a](mailto:a)       |
+| Lương Thế Kiệt | 2352649      | [a](mailto:a)       |
 
 ## Project Overview
 ## Project Target
