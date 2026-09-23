@@ -1,0 +1,2 @@
+Model,Best epoch,Validation loss,Validation Accuracy,Validation Macro F1,Training time (s),Trainable parameters,Checkpoint
+Fine-tuned DistilBERT,2,0.1889225423850055,0.9467756736464503,0.9468802385097039,796.0744853999931,66956548,models/distilbert_finetuned/best_validation_model

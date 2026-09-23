@@ -21,6 +21,10 @@ venv/
 /features/traditional/
 /features/pretrained/
 
+# Generated model checkpoints
+/models/bilstm/*.pt
+/models/distilbert_finetuned/
+
 # Environment variables
 .env
 

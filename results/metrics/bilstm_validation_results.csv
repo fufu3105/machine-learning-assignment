@@ -1,0 +1,2 @@
+Model,Best epoch,Validation loss,Validation Accuracy,Validation Macro F1,Training time (s),Trainable parameters,Checkpoint
+BiLSTM,7,0.3200674109664981,0.9082339200800867,0.9080361152821856,136.10324430000037,5830788,models/bilstm/best_validation_model.pt
