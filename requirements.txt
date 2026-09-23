@@ -5,6 +5,7 @@ seaborn
 wordcloud
 nltk
 scikit-learn
+scipy
 datasets
 transformers
 gensim>=4.4.0

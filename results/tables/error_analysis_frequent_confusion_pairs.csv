@@ -1,0 +1,11 @@
+Model name,True label,Predicted label,Count
+Linear SVM + TF-IDF,Business,Sci/Tech,136
+Linear SVM + TF-IDF,Sci/Tech,Business,122
+Linear SVM + TF-IDF,World,Business,71
+Linear SVM + TF-IDF,Sci/Tech,World,54
+Linear SVM + TF-IDF,World,Sports,54
+Fine-tuned DistilBERT,Sci/Tech,Business,121
+Fine-tuned DistilBERT,Business,Sci/Tech,120
+Fine-tuned DistilBERT,World,Business,47
+Fine-tuned DistilBERT,World,Sci/Tech,44
+Fine-tuned DistilBERT,Business,World,34
