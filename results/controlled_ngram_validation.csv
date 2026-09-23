@@ -1,3 +1,0 @@
-Configuration,N-gram range,Maximum features,Actual vocabulary size,Accuracy,Macro F1,Feature extraction time (s),Classifier training time (s),Validation prediction time (s)
-tfidf_unigram_50k_control,"(1, 1)",50000,40234,0.9194126970885126,0.9192997247107384,2.1481730000232346,3.4674462999682873,0.00360480003291741
-tfidf_unigram_bigram_50k_control,"(1, 2)",50000,50000,0.9200800867606573,0.919979701304888,6.891476400021929,4.404466699983459,0.0036332999588921666
