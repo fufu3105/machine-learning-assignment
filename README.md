@@ -2,9 +2,9 @@
 
 [![Python](https://img.shields.io/badge/python-3.14.2-blue.svg)](https://www.python.org/) [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/fufu3105/machine-learning-assignment/blob/main/assignment.ipynb)
 
-<div style="border: 3px double #333333; padding: 20px; max-width: 550px; margin: 20px auto; text-align: center;">
-    <h2 style="margin: 0 0 6px 0;">Machine Learning Course Project — Group 8</h2>
-    <h3 style="margin: 0; font-weight: 600;">News Topic Classification</h3>
+<div align="center">
+    <h2>Machine Learning Course Project — Group 8</h2>
+    <h3>News Topic Classification</h3>
 </div>
 
 ## Course Information
