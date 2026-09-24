@@ -1,7 +1,9 @@
 # Machine Learning Assignment - Group 8
 
 [![Python](https://img.shields.io/badge/python-3.14.2-blue.svg)](https://www.python.org/) [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/fufu3105/machine-learning-assignment/blob/main/assignment.ipynb)
+
 ---
+
 <div align="center">
     <h2>Machine Learning Course Project — Group 8</h2>
     <h3>News Topic Classification</h3>
@@ -15,7 +17,9 @@
 - **Course Code:** CO3117
 - **Semester:** 261, Academic Year 2026–2027
 - **Instructor:** Dr. Trương Vĩnh Lân
+
 ---
+
 ## Team Members
 
 | Name | Student ID | Email |
@@ -26,6 +30,7 @@
 | Lương Thế Kiệt | 2352649 | [kiet.luong1360@hcmut.edu.vn](mailto:kiet.luong1360@hcmut.edu.vn) |
 
 ---
+
 ## Project Overview
 
 This project studies four-class news topic classification on the [AG News dataset](https://huggingface.co/datasets/fancyzhx/ag_news). It compares traditional text features and classifiers with pretrained embeddings, BiLSTM, and fine-tuned DistilBERT using common evaluation metrics and computational cost.
@@ -34,7 +39,9 @@ This project studies four-class news topic classification on the [AG News datase
 - **GitHub Pages:** [Github Pages](https://fufu3105.github.io/machine-learning-assignment/)
 - **Dataset:** [AG News - Hugging Face](https://huggingface.co/datasets/fancyzhx/ag_news)
 - **Report:** [Final report](https://github.com/fufu3105/machine-learning-assignment/blob/main/report/final_report.pdf)
+
 ---
+
 ## Project Target
 
 - Inspect the AG News dataset and identify data-quality issues.
@@ -44,7 +51,9 @@ This project studies four-class news topic classification on the [AG News datase
 - Compare GloVe and frozen DistilBERT embeddings.
 - Train a BiLSTM and fine-tune DistilBERT.
 - Compare predictive performance, runtime, confusion patterns, and errors.
+
 ---
+
 ## Project Settings
 
 ### 1. Google Colab
@@ -72,7 +81,9 @@ python -m pip install -r requirements.txt
 # Start Jupyter Notebook
 jupyter notebook assignment.ipynb
 ```
+
 ---
+
 ## Repository Structure
 
 ```text
@@ -97,7 +108,9 @@ machine-learning-assignment/
 ├── README.md              
 └── .gitignore             
 ```
+
 ---
+
 ## References
 
 - [AG News dataset on Hugging Face](https://huggingface.co/datasets/fancyzhx/ag_news)
