@@ -24,8 +24,8 @@
 
 | Name | Student ID | Email |
 | --- | --- | --- |
-| Nguyễn Tấn Khoa | 2352576 | [khoa.nguyen2352576@hcmut.edu.vn](mailto:khoa.nguyen2352576@hcmut.edu.vn) |
 | Trương Hoàng Phú | 2352924 | [phu.truonghoang@hcmut.edu.vn](mailto:phu.truonghoang@hcmut.edu.vn) |
+| Nguyễn Tấn Khoa | 2352576 | [khoa.nguyen2352576@hcmut.edu.vn](mailto:khoa.nguyen2352576@hcmut.edu.vn) |
 | Nguyễn Đức Thịnh | 2353140 | [thinh.nguyenthinh2503@hcmut.edu.vn](mailto:thinh.nguyenthinh2503@hcmut.edu.vn) |
 | Lương Thế Kiệt | 2352649 | [kiet.luong1360@hcmut.edu.vn](mailto:kiet.luong1360@hcmut.edu.vn) |
 
